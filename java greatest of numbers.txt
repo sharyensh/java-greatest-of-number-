@@ -1,0 +1,44 @@
+public class Greatest_of_three_numbers
+
+{
+
+public static void main (String args[]);
+
+{
+    
+int a=10;
+
+    int b=20;
+
+    int c=30;
+ 
+   
+ if(a>b&&a>c)
+    
+{
+ 
+    System.out.println("the greatest of three numbers is a"+a);
+
+    }
+  
+  else if (b>a&&b>c)
+
+    {
+
+        System.out.println("the grestest of three number is b"+b);
+
+    }
+
+    else 
+
+    {
+  
+      System.out.println("the greatest of three number is c"+c);
+
+    }
+
+}
+
+}
+
+
